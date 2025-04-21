@@ -1,0 +1,5 @@
+MYSQL_HOST: mysql-{{ ENVIRONMENT }}.parijathapractice.online
+MYSQL_USER: root
+MYSQL_PASSWORD: ExpenseApp1
+App_LOCATION: /app
+COMPONENT: backend
